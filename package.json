@@ -8,7 +8,6 @@
     "build": "vite build",
     "preview": "vite preview"
   },
-
   "repository": {
     "type": "git",
     "url": "git+https://github.com/adityagupta2oo4/WorldAtlas.git"
@@ -22,8 +21,11 @@
   },
   "homepage": "https://github.com/adityagupta2oo4/WorldAtlas#readme",
   "dependencies": {
+    "@types/react-router-dom": "^5.3.3",
+    "axios": "^1.11.0",
     "react": "^19.1.0",
-    "react-dom": "^19.1.0"
+    "react-dom": "^19.1.0",
+    "react-icon": "^1.0.0"
   },
   "devDependencies": {
     "@vitejs/plugin-react": "^4.7.0",
