@@ -1,7 +1,6 @@
-import React from 'react'
+import "../src/App.css"
+const App = () =>{
+  return <h1>Hello react Projetc</h1>
+};
 
-function App() {
-  return <h1>Hello from React + Vite!</h1>
-}
-
-export default App
+export default App;
