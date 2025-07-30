@@ -600,3 +600,10 @@ contact us Page ends here
   justify-content: center;
   align-items: center;
 }
+
+.on-active{
+  color:#2e86c1;
+}
+.not-active{
+  color: #ffffff;
+}

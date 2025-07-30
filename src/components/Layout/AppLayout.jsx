@@ -7,7 +7,7 @@ export const AppLayout = () => {
     return(
         <>
             <Headers />
-            <Outlet />
+            <Outlet /> // this will be replaced by children dynamically see in App.jsx
             <Footer />
         </>
     );
