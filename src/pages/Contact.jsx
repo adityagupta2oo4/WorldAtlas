@@ -1,6 +1,6 @@
 export const Contact = () => {
     const handleFormSubmit = (formData)=>{
-        const formInputData = Object.fromEntries(formData.entries());
+        const formInputData = Object.fromEntries(formData.entries()); //power of react 19
         console.log(formInputData);
         
     }
